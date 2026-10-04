@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.quantlix/content",
+  "title": "Quantlix public content",
+  "description": "Search and read published Quantlix services, company information and insights.",
+  "version": "2.0.0",
+  "websiteUrl": "https://quantlix.com/en/developers/",
+  "repository": {
+    "url": "https://github.com/AliMuhammadOfficial/quantlix-agents",
+    "source": "github"
+  },
+  "icons": [{ "src": "https://quantlix.com/brand/mark.svg", "mimeType": "image/svg+xml" }],
+  "remotes": [{ "type": "streamable-http", "url": "https://quantlix.com/mcp/" }]
+}
