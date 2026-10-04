@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "quantlix-public-content",
+  "version": "1.0.0",
+  "description": "Read published Quantlix content and prepare user-approved inquiries.",
+  "author": { "name": "Quantlix", "url": "https://quantlix.com" },
+  "homepage": "https://quantlix.com/en/developers/",
+  "repository": "https://github.com/AliMuhammadOfficial/quantlix-agents",
+  "keywords": ["quantlix", "public-content", "mcp"]
+}
